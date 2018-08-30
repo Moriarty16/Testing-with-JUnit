@@ -38,5 +38,5 @@ and run the given examples easily. An exception from the rule is chapter eight, 
 
 License
 ---  
-The source code is published under the [Eclipse Public License - v 1.0](https://www.eclipse.org/legal/epl-v10.html)
+The source code is published under the [Eclipse Public License - v 1.0](https://www.eclipse.org/legal/epl-v10.html)   
 [ConditionalIgnoreRule](https://github.com/Moriarty16/Testing-with-JUnit/blob/7218135926f6e7a0b5efaa57d00f3f4e5a6b64ee/chapter-8/timeline.test.util/src/main/java/book/twju/timeline/test/util/ConditionalIgnoreRule.java)
